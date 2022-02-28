@@ -19,7 +19,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-shrink: 0;
     max-width: 480px;
     flex-wrap: wrap;
     min-width: 480px;
+    
  }
